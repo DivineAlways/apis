@@ -9,7 +9,7 @@ class Item(BaseModel):
 
 @app.get("/")
 def read_root():
-    return {"message": "Welcome to the FastAPI!"}
+    return {"message": "Welcome Misty to your first made API. This message is only for you. You will get $20 a week everytime you come here!"}
 
 @app.post("/create-item/")
 def create_item(item: Item):
