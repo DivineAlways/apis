@@ -1,5 +1,3 @@
-# Creating the README content as a markdown string
-readme_content = """
 # **FastLearn: Mastering FastAPI & Webhooks**
 
 Welcome to **FastLearn**! 🚀
