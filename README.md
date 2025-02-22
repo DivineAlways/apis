@@ -2,6 +2,8 @@
 
 Welcome to **FastLearn**! 🚀
 
+[Click here to access the FastLearn Streamlit App](https://fastapi-course.streamlit.app/)
+
 In this course, you will learn how to:
 - Build a simple **FastAPI** app from scratch.
 - Deploy it to **Vercel** for public access.
